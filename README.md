@@ -1,4 +1,4 @@
-## Hi there, 👋
+Hi there, 👋
 Welcome to my corner of the internet! I'm a student who loves to "vibe code" and explore the fascinating world where biology meets computation. 
 I spend my days bridging the gap between wet lab experiments and dry lab code. 
 ---
