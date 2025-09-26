@@ -16,7 +16,7 @@ This is my stack of tools for building things, running simulations, and making s
 
 * **Languages:** Python, Bash
 * **Bio-Stack:** GROMACS, RDKit, PyMOL, Chimera, Autodock, Vina
-* **Development:** Git, Conda, Anaconda, Linux
+* **Development:** Git, Conda,Linux
 
 ---
 * **Research Associate:** working in the Protein Science Lab at Sharda University, under Prof. Amit Kumar Singh.
