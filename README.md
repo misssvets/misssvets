@@ -16,10 +16,9 @@ This is my stack of tools for building things, running simulations, and making s
 
 * **Languages:** Python, Bash
 * **Bio-Stack:** GROMACS, RDKit, PyMOL, Chimera, Autodock, Vina
-* **Development:** Git, Conda,Linux
+* **Development:** Git, Conda, Linux
 
 ---
-* **Research Associate:** working in the Protein Science Lab at Sharda University, under Prof. Amit Kumar Singh.
 - - - 
 Feel free to reach out and say hi!
 [![Email me](https://img.shields.io/badge/Gmail-shweta.tiwari8542%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:shweta.tiwari8542@gmail.com)
